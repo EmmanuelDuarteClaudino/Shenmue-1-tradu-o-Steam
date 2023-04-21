@@ -1,4 +1,4 @@
-#Tradução de Shenmue 1 HD feita por fãs e disponibilizada pela antiga, e praticamente extinta Tribo Gamer. 
+# Tradução de Shenmue 1 HD feita por fãs e disponibilizada pela antiga, e praticamente extinta Tribo Gamer.
 
 Tradução funciona perfeitamente na versão de Steam, sem travamentos até o momento dos meus últimos testes(jogatinas), tradução tem um leve toque de brasilidade,
 mas nada que interfira na experiência do jogo. 
