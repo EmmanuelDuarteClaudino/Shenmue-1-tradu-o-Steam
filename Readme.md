@@ -1,6 +1,6 @@
-# Tradução de Shenmue I HD Steam
+# Tradução de Shenmue I HD Steam (PT-BR)
 
-Tradução feita por fãs e disponibilizada na antiga e praticamente extinta Tribo Gamer, no qual não é mais possível de obter esta tradução como outras.
+Tradução feita por **Lucas M. Fornazieri**, disponibilizada na antiga e praticamente extinta Tribo Gamer, no qual não é mais possível de obter esta tradução como outras.
 Tradução funciona perfeitamente na versão de Steam, sem travamentos até o momento dos meus últimos testes(jogatinas), tradução tem um leve toque de brasilidade,
 mas nada que interfira na experiência do jogo. 
 
