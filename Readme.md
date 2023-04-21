@@ -15,4 +15,4 @@ Tradução feita por  **Lucas M. Fornazieri**, disponibilizada na antiga e prati
   Caso já esteja instalada a tradução, quando iniciar o instalador novamente ele já ira perguntar se você gostaria de desinstalar a tradução, apenas seguindo os           passos em pouco tempo já estará desinstalada.
 
       
-Todos os direitos de Shenmue 1 & 2 HD são reservados a Sega e Yu Suzuki. 
+##### **Todos os direitos de Shenmue 1 & 2 HD são reservados a Sega e Yu Suzuki.** 
